@@ -16,13 +16,13 @@
         <java.version>1.8</java.version>
     </properties>
 
-    <!--<repositories>
+    <repositories>
         <repository>
             <id>nexus-aliyun</id>
             <name>Nexus aliyun</name>
             <url>http://maven.aliyun.com/nexus/content/groups/public</url>
         </repository>
-    </repositories>-->
+    </repositories>
 
     <dependencies>
         <!-- put javax.ws.rs as the first dependency, it is important!!! -->
